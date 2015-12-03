@@ -71,7 +71,3 @@ hcat -e "CREATE TABLE FIREWALL_LOGS(time STRING, ip STRING, country STRING, stat
 ```
 
 Vous pouvez à présent exécuter des requêtes sur la table **FIREWALL_LOGS**.
-
-### Tutoriel en entier
-Ce tutoriel est issu d'un tutoriel de chez Horton, pour faire ce tutoriel en entier :
-http://fr.hortonworks.com/hadoop-tutorial/how-to-refine-and-visualize-server-log-data/
